@@ -33,6 +33,7 @@
     "babel-preset-stage-0": "^6.24.1",
     "css-loader": "^0.28.11",
     "dotenv": "^5.0.1",
+    "jsonfile": "^4.0.0",
     "webpack": "^4.4.1",
     "webpack-cli": "^2.0.13"
   },
